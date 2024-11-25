@@ -28,7 +28,7 @@
 <a href="https://stars.github.com/nominate/">If you love what you see, please nominate me for GitHub Star :)</a>
 
 
-### Socials 
+### Socials🌐
 <!-- SOCAIL MEDIA HANDLES -->
 [![Linkedin Badge](https://img.shields.io/badge/-JayMadane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jay-madane-6859b9228/)](https://www.linkedin.com/in/jay-madane-6859b9228/)
 
@@ -38,7 +38,7 @@
 
 <!-- STATISTICS ABOUT PROFILE -->
 
-### 📶 Stats:<br><br>
+### Stats📶<br><br>
  
  
 <!--  TOP LANGUAGES STATISTICS -->
@@ -61,7 +61,7 @@
 
 
 <!--  PROFILES VIEWS -->
-🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Profile Views**🌱 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![visitors](https://profile-counter.glitch.me/jaymadane133/count.svg?align=center)
 
  --- 
